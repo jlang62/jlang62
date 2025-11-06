@@ -1,5 +1,5 @@
 # 💫 About Me:
-😎 I am a Software and Web Developer with a passion for almost every sport<br>👨🏽‍🎓 Studying Web Business & Technology, University of Applied Sciences Kufstein, Austria<br>📸 Hobby photographer<br>📬 Send me an Email or add me on LinkedIn
+😎 I am a Software and Web Developer with a passion for almost every sport<br>👨🏽‍🎓 Studying Computer Science at the IT University of Copenhagen, Denmark<br>📸 Hobby photographer<br>📬 Send me an Email or add me on LinkedIn
 
 
 ## 🌐 Socials:
